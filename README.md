@@ -1,4 +1,4 @@
-# Breast Cancer Detection
+# Prognosis of Breast Cancer using Machine Learning Algorithms
 Breast Cancer Detection Using Machine Learning
 
 <img src="https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png" />
@@ -70,18 +70,7 @@ Now while its difficult to figure out for physicians  by seeing only images of x
 
 # Project Description
 
-The Project is Inspired by the Original Publication of...
-
-1)Doç. Dr. Ahmet MERT
-Mühendislik ve Doğa Bilimleri Fakültesi > Mekatronik Mühendisliği Bölümü
-
-2)Dr. Erdem Bilgili
-Piri Reis University
-
-3)Dr. Aydin Akan
-Izmir Katip Celebi University, Izmir, Turkey
-
-The Projects Features Detection of Breast Cancer Using Machine Learning.
+The Projects Features Prognosis of Breast Cancer using Machine Learning Algorithms.
 It has been tested that while there exists several machine learning models,Support Vector Machine or SVM in short is reported to have highest accuracy of (approximately 97%) in detecting breast cancer.
 
 The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as... 
